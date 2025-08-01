@@ -1,0 +1,8 @@
+@import "tailwindcss";
+pre[class*="language-"] {
+  background: transparent !important;
+}
+
+code[class*="language-"] {
+  background: transparent !important;
+}
