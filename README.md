@@ -1,5 +1,12 @@
 # 💡 AI Code Reviewer
 
+🔗 **Live Site**: [Click here to view live demo](https://ai-code-reviewer-wheat-nine.vercel.app)
+<p align="center">
+  <img src="./src/assets/screenshots/app-preview.png" alt="App Screenshot" width="700"/>
+</p>
+
+---
+
 Your personalized AI-powered code review tool — Write code, click generate, and get instant suggestions, improvements, and bug detection powered by AI!
 
 ---
@@ -15,17 +22,17 @@ Your personalized AI-powered code review tool — Write code, click generate, an
 ```
 Code_Review/
     ├── Backend/
-        ├──src
-        │    ├── controllers/
-        │    │ └── ai.controller.js 
-        │    ├── routes/
-        │    │ └── ai.routes.js 
-        │    ├── services/
-        │      └── ai.service.js 
-        ├── app.js 
-        ├── server.js 
-        ├── .gitignore
-        └── package.json
+    │   ├──src
+    │   │    ├── controllers/
+    │   │    │ └── ai.controller.js 
+    │   │    ├── routes/
+    │   │    │ └── ai.routes.js 
+    │   │    ├── services/
+    │   │      └── ai.service.js 
+    │   ├── app.js 
+    │   ├── server.js 
+    │   ├── .gitignore
+    │   └── package.json
     ├── Frontend/
     │   ├── src/
     │   │   ├── components/
