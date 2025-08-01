@@ -33,7 +33,7 @@ export default function App() {
     }, 4000);
 
     setTimeout(() => {
-      axios.post("https://ai-code-reviewer-a2rj.onrender.com/ai/post-response", { code })
+      axios.post(`${import.meta.env.VITE_BACKEND_URL}/ai/post-response`, { code })
         .then(response => {
           console.log("AI Response:", response.data);
           setOutput(JSON.stringify(response.data, null, 2));
