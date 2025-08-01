@@ -2,7 +2,7 @@
 
 🔗 **Live Site**: [Click here to view live demo](https://ai-code-reviewer-wheat-nine.vercel.app)
 <p align="center">
-  <img src="./app-preview.png" alt="App Screenshot" width="700"/>
+  <img src="https://i.postimg.cc/DZjr3jc7/app-preview.png" alt="App Screenshot" width="700"/>
 </p>
 
 ---
@@ -13,7 +13,7 @@ Your personalized AI-powered code review tool — Write code, click generate, an
 
 ## 📸 Screenshot
 
-![Screenshot of Code Review App](./app-preview.png)
+![Screenshot of Code Review App](https://i.postimg.cc/BZHt27dk/app-preview-2.png)
 
 ---
 
